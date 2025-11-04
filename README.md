@@ -1,6 +1,3 @@
-Here’s a clean, professional **`README.md`** file you can put directly on your GitHub repository 👇
-
----
 
 ```markdown
 # 🎨 Flutter Color Changer App
