@@ -1,5 +1,4 @@
 
-```markdown
 # 🎨 Flutter Color Changer App
 
 A simple Flutter app that dynamically changes the background color and gradient direction with the click of a button.
